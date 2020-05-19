@@ -1,1 +1,2 @@
 file1 in folder 1
+first change: added a new line
